@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: blanchedalmond;
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    height: 40px;
+}
+
+.site-id{
+    margin: 0;
+}
+
+.main{
+    padding: 80px 20px;
+}
+
+.footer{
+    background-color:aquamarine;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.nav-list{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.nav-button{
+    background-color:whitesmoke;
+    padding: 16px;
+    border-radius: 15px;
+}
